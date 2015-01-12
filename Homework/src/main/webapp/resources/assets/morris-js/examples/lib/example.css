@@ -1,0 +1,24 @@
+#typeDonut {
+  width: 100%;
+  height: 350px;
+}
+pre {
+  height: 250px;
+  overflow: auto;
+}
+
+#graph {
+  width: 100%;
+  height: 400px;
+}
+
+#descDonut {
+  width: 100%;
+  height: 350px;
+}
+
+#deviceDonut {
+  width: 100%;
+  height: 350px;
+}
+
